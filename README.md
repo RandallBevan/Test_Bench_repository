@@ -58,5 +58,6 @@ In this project, we'll use accuracy, F1 score, and ROC-AUC to evaluate model per
 | GitHub Page                        | Randall                |
 
 
-## Gant Chart
-https://gtvault-my.sharepoint.com/:x:/g/personal/ddagostino7_gatech_edu/EefHZ7und7ZEiZlgqVpmOr0B9ThaqGV_kqyBa7Izyc2oeg?e=4CRS5a
+## Gantt Chartt
+[Gantt Chart](https://gtvault-my.sharepoint.com/:x:/g/personal/ddagostino7_gatech_edu/EefHZ7und7ZEiZlgqVpmOr0B9ThaqGV_kqyBa7Izyc2oeg?e=4CRS5a)
+
